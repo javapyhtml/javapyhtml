@@ -19,9 +19,12 @@
 <img src="https://img.shields.io/badge/HTML5-0B6121?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-8904B1?style=for-the-badge&logo=CSS3&logoColor=white"> 
 
- <br/><br/><br/><br/>
-
+ <br/><br/>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:82FA58,100:81F7F3)
 
 </div>
 
