@@ -24,7 +24,7 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:82FA58,100:81F7F3)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f9fcff,100:99d0fc)
 
 </div>
 
